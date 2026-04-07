@@ -1,0 +1,41 @@
+[
+  {
+    "id": "plan_lite",
+    "name": "Lite Shield",
+    "price": 49,
+    "popular": false,
+    "features": [
+      "Rain Protection",
+      "Pollution Cover",
+      "Basic AI Detection",
+      "₹1,500 Max Payout",
+      "Earn Reward Coins"
+    ]
+  },
+  {
+    "id": "plan_pro",
+    "name": "Pro Shield",
+    "price": 99,
+    "popular": true,
+    "features": [
+      "All Weather Protection",
+      "Heat Wave Cover",
+      "Priority AI Payouts",
+      "₹3,500 Max Payout",
+      "Earn Reward Coins"
+    ]
+  },
+  {
+    "id": "plan_elite",
+    "name": "Elite Shield",
+    "price": 149,
+    "popular": false,
+    "features": [
+      "Full Environmental Cover",
+      "Natural Disaster Shield",
+      "Instant Wallet Payout",
+      "₹6,000 Max Payout",
+      "Earn Reward Coins"
+    ]
+  }
+]
